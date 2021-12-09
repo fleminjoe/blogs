@@ -1,9 +1,8 @@
 {
-  "homepage": "https://fleminjoe.github.io/blogs",
   "name": "blog-atmecs",
   "version": "0.1.0",
   "private": true,
-  
+  "homepage": "https://fleminjoe.github.io/blogs-new-atmec",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
@@ -15,12 +14,13 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
