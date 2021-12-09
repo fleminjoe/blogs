@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blogs-new-atmec/static/css/main.55a05c26.chunk.css",
+    "main.js": "/blogs-new-atmec/static/js/main.20c6eecc.chunk.js",
+    "main.js.map": "/blogs-new-atmec/static/js/main.20c6eecc.chunk.js.map",
+    "runtime-main.js": "/blogs-new-atmec/static/js/runtime-main.de843b8d.js",
+    "runtime-main.js.map": "/blogs-new-atmec/static/js/runtime-main.de843b8d.js.map",
+    "static/js/2.e5323fbd.chunk.js": "/blogs-new-atmec/static/js/2.e5323fbd.chunk.js",
+    "static/js/2.e5323fbd.chunk.js.map": "/blogs-new-atmec/static/js/2.e5323fbd.chunk.js.map",
+    "index.html": "/blogs-new-atmec/index.html",
+    "static/css/main.55a05c26.chunk.css.map": "/blogs-new-atmec/static/css/main.55a05c26.chunk.css.map",
+    "static/js/2.e5323fbd.chunk.js.LICENSE.txt": "/blogs-new-atmec/static/js/2.e5323fbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de843b8d.js",
+    "static/js/2.e5323fbd.chunk.js",
+    "static/css/main.55a05c26.chunk.css",
+    "static/js/main.20c6eecc.chunk.js"
+  ]
+}
